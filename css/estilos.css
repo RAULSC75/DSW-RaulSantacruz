@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+  transition: all 400ms ease;
+  background-color: #fff;
+  color: #333;
+}
+nav{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #005883;
+}
+footer {
+    background-color: #F47920;
+    color: white;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+.dropdown-item {
+  color: #fff;
+}
+  .navbar .dropdown.focus {
+    background-color: #005883;
+  }
+
+  .jumbotron{
+    background-color: #FFFFFF;
+    }
+    
+    .dropdown-menu > a:hover {
+     background-color: #005883;
+    color: #fff; 
+    }
+    .navbar .dropdown-menu {
+      background-color: #F0B429;
+      color: white;
+    }
+    #navbardrop:hover {
+      background-color: #F0B429;
+    }
+    .nav-item:hover {
+      background-color: #F0B429;
+    }
+    .navbar-brand:hover {
+      background-color: #F0B429;
+    }
