@@ -45,3 +45,9 @@ footer {
     .navbar-brand:hover {
       background-color: #F0B429;
     }
+/**MOVILES**/
+@media handheldbody{
+  width:98%,
+  font-family:Verdana,
+  font-size:16px;
+}
