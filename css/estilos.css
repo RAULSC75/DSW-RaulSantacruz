@@ -46,7 +46,7 @@ footer {
       background-color: #F0B429;
     }
 /**MOVILES**/
-@media handheldbody{
+@media handheld body{
   width:98%,
   font-family:Verdana,
   font-size:16px;
