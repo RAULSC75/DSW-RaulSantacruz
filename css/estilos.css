@@ -46,8 +46,7 @@ footer {
       background-color: #F0B429;
     }
 /**MOVILES**/
-@media handheld body{
-  width:98%,
-  font-family:Verdana,
-  font-size:16px;
-}
+@media screen and (min-width:300px) and (max-width:800px) {
+  body{font-size:0.8em;}
+  sidebar{display:none;}
+  }
